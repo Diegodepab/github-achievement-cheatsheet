@@ -27,7 +27,7 @@ The achievement list are ordered by their release dates.
 
 ### Open Sourcerer
 
-> ???
+> How to get: Can be obtained if a user had Pull Requests merged in public repository (🔜 In testing, not available)
 
 also available in Bronze, Silver, and Gold achievement.
 
@@ -39,7 +39,8 @@ also available in Bronze, Silver, and Gold achievement.
 
 ### Heart On Your Sleeve
 
-> ???
+> How to get: User cans obtain this badge by reacting to something on GitHub with a ❤️ emoji (🔜 In testing, not available)
+
 
 also available in Bronze, Silver, and Gold achievement.
 
